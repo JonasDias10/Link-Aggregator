@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+:root {
+    --bg-dark-color: #367AA1;
+    --cards-color: #CCDEEF;
+    --font-color: #CCDEEF;
+}
+
+.container {
+    background-color: var(--bg-dark-color);
+    color: var(--font-color);
+}
+
+.cards {
+    color: var(--bg-dark-color);
+}
+
+.theme-switcher {
+    background-color: var(--font-color);
+}
+
+.theme-switcher .button-switcher {
+    background-color: var(--bg-dark-color);
+}
+
+.profile-photo .photo {
+    border: 4px solid var(--font-color);
+}
+
+.cards {
+    background-color: var(--cards-color);
+}
