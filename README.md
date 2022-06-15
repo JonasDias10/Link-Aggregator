@@ -10,10 +10,6 @@ compartilhamento de meus links em um ambiente central.
 
 #### Acesse o Link Abaixo para Visualizar o Site:
 
-https://jonasdias.netlify.app/
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/53b78538-886d-4039-b250-2bd8efea95be/deploy-status)](https://app.netlify.com/sites/jonasdias/deploys)
-
 #### Tecnologias que Estou Estudando💻
 
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
