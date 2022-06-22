@@ -6,7 +6,7 @@
     --cards-color: #86B6D9;
 }
 
-.container {
+body {
     background-color: var(--bg-light-color);
     color: var(--font-color);
 }

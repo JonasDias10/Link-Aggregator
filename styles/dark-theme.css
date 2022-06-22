@@ -6,7 +6,7 @@
     --font-color: #CCDEEF;
 }
 
-.container {
+body {
     background-color: var(--bg-dark-color);
     color: var(--font-color);
 }
