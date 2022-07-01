@@ -10,7 +10,7 @@ compartilhamento de meus links em um ambiente central.
 
 #### Acesse o link abaixo para visualizar o site:
 
-https://jonasdias10.github.io/Link-Aggregator/
+https://jonas-dias.vercel.app/
 
 #### Tecnologias que Estou Estudando💻
 
