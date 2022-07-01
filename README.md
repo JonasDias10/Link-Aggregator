@@ -8,7 +8,9 @@ compartilhamento de meus links em um ambiente central.
 #### Minhas Redes💻
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonasdias18/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zdias_z3/)
 
-#### Acesse o link para visualizar o site: <a href="https://jonas-dias.vercel.app/" target="_blank"> Meus Links &#x1F517;</a>
+#### Acesse o link para visualizar o site: <a href="https://jonas-dias.netlify.app/" target="_blank"> Meus Links &#x1F517;</a>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d9610c25-ff21-4277-9599-13231bc1211b/deploy-status)](https://app.netlify.com/sites/jonas-dias/deploys)
 
 #### Tecnologias que Estou Estudando💻
 
