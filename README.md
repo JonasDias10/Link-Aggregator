@@ -8,9 +8,7 @@ compartilhamento de meus links em um ambiente central.
 #### Minhas Redes💻
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonasdias18/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zdias_z3/)
 
-#### Acesse o link abaixo para visualizar o site:
-
-https://jonas-dias.vercel.app/
+#### Acesse o link para visualizar o site: <a href="https://jonas-dias.vercel.app/" target="_blank"> Meus Links &#x1F517;</a>
 
 #### Tecnologias que Estou Estudando💻
 
