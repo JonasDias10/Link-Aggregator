@@ -10,7 +10,7 @@ btnTheme.addEventListener('click', () => {
     const isTrue = true;
 
     if(isLightTheme === isTrue)
-        linkTheme.setAttribute('href', lightThemePath);
+        linkTheme.href =  lightThemePath;
     else
-        linkTheme.setAttribute('href', darkThemePath);
+        linkTheme.href = darkThemePath;
 });
