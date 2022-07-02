@@ -14,13 +14,17 @@
 
 body {
     font: normal bold 1rem var(--font-play);
-    display: flex;
-    flex-direction: column;
-    align-items: center;
     transition: 0.6s;
 }
 
-header, .theme-switcher {
+#container {
+    text-align: center;
+    width: 96vw;
+    max-width: 380px;
+    margin: 0 auto;
+}
+
+header, #theme-switcher {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -28,33 +32,34 @@ header, .theme-switcher {
 
 header {
     width: 100%;
-    padding: 12px 2px;
+    padding: 8px 2px;
     max-width: 350px;
 }
 
-.logo h1 {
+#logo h1 {
     line-height: 90%;
     font-size: 1.6rem;
 }
 
-.logo span {
+#logo span {
     padding-left: 20px;
 }
 
-.theme-switcher {
+#theme-switcher {
     width: 74px;
     height: 28px;
     border-radius: 42px;
     padding: 2px 4px;
 }
 
-.theme-switcher .button-switcher {
+#theme-switcher .button-switcher {
     cursor: pointer;
     position: absolute;
     width: 22px;
     height: 22px;
     border: none;
     border-radius: 50%;
+    color: transparent;
     transition: transform 0.5s;
 }
 
@@ -66,25 +71,25 @@ header {
     transform: translate(0px);
 }
 
-.profile-photo, .cards {
+#profile-photo, .cards {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
 
-.profile-photo {
+#profile-photo {
     font-size: 0.8rem;
 }
 
-.profile-photo .photo {
+#profile-photo #photo {
     border-radius: 34%;
     width: 150px;
     height: 150px;
-    margin-bottom: 4px;
+    margin-bottom: 2px;
 }
 
-.profile-photo .photo img {
+#profile-photo #photo img {
     object-fit: cover;
     width: 100%;
     height: 100%;
@@ -93,9 +98,10 @@ header {
 
 .cards {
     border-radius: 24px;
-    width: 350px;
-    height: 86px;
-    margin: 12px auto;
+    width: 90vw;
+    max-width: 350px;
+    height: 80px;
+    margin: 10px auto;
     transition: transform 0.4s;
 }
 
@@ -105,11 +111,11 @@ header {
 
 .cards a {
     text-decoration: none;
-    color: #367AA1;
+    color: #046380;
     text-align: center;
 }
 
 footer {
     font-weight: bold;
-    padding: 8px 4px;
+    padding: 4px 4px;
 }
