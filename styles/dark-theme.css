@@ -23,7 +23,7 @@ body {
     background-color: var(--bg-dark-color);
 }
 
-#profile-photo #photo {
+#profile #photo {
     border: 4px solid var(--font-color);
 }
 
