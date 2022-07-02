@@ -14,3 +14,13 @@ btnTheme.addEventListener('click', () => {
     else
         linkTheme.href = darkThemePath;
 });
+
+const url = 'https://api.github.com/users/jonasdias10';
+function getProfilePhoto(){
+    fetch(url)
+    .then((response) => response.json())
+    .then((data) => profilePhoto.src = data.avatar_url)
+    .catch((err) => console.error(err))
+}
+
+getProfilePhoto();
